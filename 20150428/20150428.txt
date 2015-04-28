@@ -1,0 +1,7 @@
+1、通过结构体中某个变量，获取该结构体的entry地址（来源：http://blog.csdn.net/daniel_ustc/article/details/17094285）
+2、do{}while（）的妙用 （来源：http://blog.csdn.net/daniel_ustc/article/details/17094285）
+3、函数对象（leetcode generate parentheses）
+4、函数指针（leetcode generate genentheses）
+5、对链表操作时一般会人工构造一个结点，它的next指向head
+6、Linus  http://coolshell.cn/articles/8990.html/comment-page-3#comments
+7、利用多级指针取周围相邻节点
