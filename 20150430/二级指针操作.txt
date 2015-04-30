@@ -1,0 +1,4 @@
+1、你在阅读源代码或设计文档时，看到哪些惊艳的技巧？http://www.zhihu.com/question/29186751
+node** prev实际指向前一个节点的next，所以是node** 类型。
+实际上是利用node** 把head和前一个节点的&next 统一起来，避免检查head。
+2、一个组合问题：http://www.zhihu.com/question/29951367
