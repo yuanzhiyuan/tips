@@ -1,0 +1,12 @@
+http://en.wikipedia.org/wiki/XOR_linked_list
+
+http://stackoverflow.com/questions/132241/hidden-features-of-c
+
+1、遇到问题：
+1>c:\users\yuanhao\desktop\proj\fp-growth\fp-growth\fp-growth\node.h(17): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+均出现在使用unordered_map<int,Node>时出现，网上搜的解决方法（头文件定义顺序、类定义后面没有加分号、先定义后使用）都没用。自己写的小程序测试unordered_map，可以用。
+===========================================================
+知道原因了，我在用unordered_map的时候没有using std::unordered_map.
+
+1>c:\users\yuanhao\desktop\proj\fp-growth\fp-growth\fp-growth\node.h(17): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+
