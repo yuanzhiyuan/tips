@@ -1,0 +1,4 @@
+1、bind1st/bind2nd   http://www.cplusplus.com/reference/functional/bind1st/ 
+可解决for_each、find_if 等第三个参数有多个参数的问题 
+2、split一个string，用stringstream	http://stackoverflow.com/questions/236129/split-a-string-in-c
+3、为什么两个循环比一个循环快很多(cache) http://stackoverflow.com/questions/8547778/why-is-one-loop-so-much-slower-than-two-loops
